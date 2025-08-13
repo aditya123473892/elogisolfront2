@@ -100,8 +100,7 @@ const VehicleDetailsSection = ({
             required
           >
             <option value="">Select Trip Type</option>
-            <option value="Trailer">Container</option>
-            <option value="Truck">Truck</option>
+
             <option value="tr-4">tr-4</option>
             <option value="tr-5">tr-5</option>
             <option value="tr-8">tr-8</option>

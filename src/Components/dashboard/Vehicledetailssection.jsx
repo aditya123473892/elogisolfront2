@@ -102,6 +102,12 @@ const VehicleDetailsSection = ({
             <option value="">Select Trip Type</option>
             <option value="Trailer">Container</option>
             <option value="Truck">Truck</option>
+            <option value="tr-4">tr-4</option>
+            <option value="tr-5">tr-5</option>
+            <option value="tr-8">tr-8</option>
+            <option value="tr-9">tr-9</option>
+            <option value="Single Car Carrier">Single Car Carrier</option>
+            <option value="Van">Van</option>
           </select>
         </div>
 
